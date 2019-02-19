@@ -5,6 +5,7 @@ List of my free available VM I builded for various uses.
 - Firefox preconfig with privacy addons, no history, no reporting.
   - Duckduck go search engine
 - Crush reports disabled
+- Tor installed
 
 ## VMs
 - Papyrous and Simbad
